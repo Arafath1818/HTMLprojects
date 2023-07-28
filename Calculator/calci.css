@@ -1,0 +1,41 @@
+.button1{
+    padding: 20px;
+    width:60px;
+    margin:0 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    color:whitesmoke;
+    background-color:orange;
+    font-size: 15px;
+    cursor:pointer;
+
+}
+.container{
+    text-align: center;
+    display: inline;
+}
+.row{
+margin: 8px 0;
+}
+.button{
+    padding: 20px;
+    width:60px;
+    margin:0 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    color:whitesmoke;
+    background-color:gray;
+    font-size: 15px;
+    cursor:pointer;
+
+}
+.r{
+    width: 300px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: aqua;
+    margin: 8px 0;
+}
